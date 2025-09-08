@@ -15,12 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Привет, меня зовут Amiran [Terabit] 👋
+# Hello, I`m Amiran [Terabit] 👋
 
-Я - кофеинозависимый.
+I am a caffeine addict.
 
 ---
-- Создаю веб-приложения на Go — потому что мощь и простота могут быть друзьями.
-- Кастомизирую Linux-десктопы.
-- Разрабатываю небольшие игры и добавляю хаоса в игровой мир.
-- Пишу на Go, делаю игры на Unity.
+- I customize Linux.
+- I coding in Go, and make games in Unity for as hobby.
+
+Give me some money for a cup of coffee 🙂
+
+[![Telegram](https://img.shields.io/badge/Telegram-0077FF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TerBitCore)
+
